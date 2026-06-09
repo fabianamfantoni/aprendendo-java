@@ -1,15 +1,17 @@
-# Tipos de dados
+# :game_die: Tipos de dados
 
-*Em Java, os tipos de dados definem como as informações são armazenadas e manipuladas no programa.*
+:paperclip: *Em Java, os tipos de dados definem como as informações são armazenadas e manipuladas no programa.*
+ 
+:bulb: *Eles se dividem em **tipos primitivos**, que guardam valores simples como números e caracteres, e **tipos de referência**, que representam objetos mais complexos.*
 
-*Eles se dividem em **tipos primitivos**, que guardam valores simples como números e caracteres, e **tipos de referência**, que representam objetos mais complexos.*
-
-
-## Tipos primitivos:
-
-***São os mais básicos, armazenam valores simples diretamente na memória. Eles são divididos em:***
 ---
 
+## :page_with_curl: Tipos primitivos:
+
+
+:card_index_dividers:***São os mais básicos, armazenam valores simples diretamente na memória. Eles são divididos em:***
+
+---
 *Inteiros (sem casas decimais)*
 
 - byte (8 bits) -> números inteiros de -128 a 127
@@ -36,10 +38,11 @@
 *Lógico*
 
 - boolean (1 bit) -> valores lógicos: true ou false
+---
+## :compass: Tipos de referência
 
-## Tipos de referência
-
-***São usados para armazenar objetos e estruturas mais complexas:***
+---
+:file_cabinet: ***São usados para armazenar objetos e estruturas mais complexas:***
 
 - *Strings* -> texto (ex: "Olá Mundo")
 
