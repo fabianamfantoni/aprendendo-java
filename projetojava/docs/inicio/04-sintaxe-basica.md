@@ -1,7 +1,8 @@
-# Sintaxe Básica da Linguagem Java
+# :point_up::nerd_face: Sintaxe Básica da Linguagem Java
 
-*Java é uma linguagem orientada a objetos, e todo programa começa com uma **classe** e um **método principal** (`main`).*
+:paperclip: *Java é uma linguagem orientada a objetos, e todo programa começa com uma **classe** e um **método principal** (`main`).*
 
+---
 *A sintaxe define como escrevemos instruções para que o compilador entenda e execute.*
 
 - **() Parênteses**: Na sintaxe é usado para parâmetros de métodos e condições.
@@ -18,7 +19,7 @@
 
 * Porque o compilador depende dessas regras para interpretar corretamente o programa. Por exemplo, esquecer o ; no final de uma linha ou usar () fora de contexto fará o código não compilar.
 
-## Estrutura de um programa Java
+## :building_construction: Estrutura de um programa Java
 
 ---
 - **Classe**: Definida com `class NomeDaClasse`(CamelCase começando com maiúsculas ).
@@ -68,7 +69,7 @@ public class Exemplo {
 ``` 
 ---
 
-## Declaração de variáveis
+## :round_pushpin:Declaração de variáveis
 
 **Sintaxe**: *tipo nome = valor;(CamelCase começando com minúscula)*
 **Exemplos de tipos**:
@@ -94,7 +95,7 @@ public static void main(String[] args) {
 
 ``` 
 
-### Concatenação em Java
+### :paperclips: Concatenação em Java
 
 *Concatenação é o ato de unir valores, geralmente textos, em uma única sequência.*
 *Em Java, isso é feito principalmente com o operador + ou com métodos da classe String.*
