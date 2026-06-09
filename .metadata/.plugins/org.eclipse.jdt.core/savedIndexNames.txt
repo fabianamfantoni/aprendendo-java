@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\fabia\OneDrive\Documentos\_github\aprendendo-java\.metadata\.plugins\org.eclipse.jdt.core
+1431187621.index
+2160775541.index
+1865797976.index
