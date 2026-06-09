@@ -1,13 +1,13 @@
-# Java
+# <img width="70" height="70" alt="java_icon_" src="https://github.com/user-attachments/assets/293392cc-06a0-45b0-bfe5-09ed3ee2b980" /> Java
 
-**Objetivo deste repositório:**
----
+## :dart: **Objetivo deste repositório:**
+
 - Ajudar no desenvolvimento basico com a linguagem Java
 - Servir como espaço para exemplos, práticas e estudos
 - Compartilhar boas práticas e recursos úteis.
 
 ---
-*Java é uma linguagem cuja sintaxe é  semelhante ao C/C++.*
+:paperclip: *Java é uma linguagem cuja sintaxe é  semelhante ao C/C++.*
 
 - Seu paradigma é  orientado a objetos, com forte foco em modularidade e reutilização de código.
 
@@ -18,8 +18,9 @@
 - Forte tipagem e gerenciamento automático de memória (garbage collector)
 
 - Possui um grande ecossistema de bibliotecas e frameworks (Spring, Hibernate, etc.).Além de uma comunidade ativa e suporte contínuo.
+---
 
-## Muito usada em:
+## :chart_with_upwards_trend: Muito usada em:
 
 - Sistemas corporativos.
 
@@ -31,13 +32,15 @@
 
 ---
 
-**Para começar:** 
+	
+:card_file_box: **Para começar:** 
 
-- docs -> inicio -> 01-configuracao-ambiente
+- Vá em projetojava -> docs -> inicio -> 01-configuracao-ambiente
 
-### Refêrencias 
+### :round_pushpin: Refêrencias 
 
-[Documentação - Oracle](https://docs.oracle.com/en/java/)
-[Documentação/Referência- W3Schools](https://www.w3schools.com/java/java_ref_reference.asp)
+- [Documentação - Oracle](https://docs.oracle.com/en/java/)
+
+- [Documentação/Referência- W3Schools](https://www.w3schools.com/java/java_ref_reference.asp)
 
 
